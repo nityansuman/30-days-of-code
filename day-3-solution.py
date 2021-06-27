@@ -13,6 +13,9 @@ def if_weird(value):
             return "Not Weird"
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
+    # Read an integer number from stdin (standard input)
     N = int(input().strip())
+
+    # Get results using a method
     print(if_weird(N))
