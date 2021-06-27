@@ -1,6 +1,6 @@
 
 class Person:
-    def __init__(self,initialAge):
+    def __init__(self, initialAge):
         # Set current age
         if initialAge < 0:
             self.age = 0
