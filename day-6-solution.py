@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
 		# Compute strings
 		for j in range(len(s)):
-			if j%2 == 0:
+			if j % 2 == 0:
 				even_string += s[j]
 			else:
 				odd_string += s[j]
