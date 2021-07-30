@@ -19,7 +19,7 @@ class MyList:
 			# Move to next node
             current = current.next
 
-    def insert(self, head, data):
+    def insert_at_tail(self, head, data):
         if head != None:
             # Non-empty linked list
 
@@ -64,7 +64,7 @@ if __name__ == "__main__":
 		data = int(input())
 
 		# Insert data to list
-		head = a_list.insert(head, data)
+		head = a_list.insert_at_tail(head, data)
 
 	# Display the list content
 	a_list.display(head)
