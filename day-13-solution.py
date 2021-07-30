@@ -7,9 +7,12 @@ class Book(object, metaclass=ABCMeta):
         self.author = author
 
     @abstractmethod
-    def display(): pass
+    def display():
+        # Abstract methods are to be implemented in sub-class
+        pass
 
 
+# Create sub-class by inheriting the above parent class
 class MyBook(Book):
     def __init__(self, title, author, price):
         self.price = price

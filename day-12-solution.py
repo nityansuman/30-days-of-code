@@ -20,7 +20,10 @@ class Student(Person):
 		self.scores = scores
 
 	def calculate(self):
+		# Compute mean score
 		average_score = sum(self.scores) / len(self.scores)
+
+		# Assign grades according to the set rule
 		if average_score >= 90 and average_score <= 100:
 			return "O"
 		elif average_score >= 80 and average_score < 90:
