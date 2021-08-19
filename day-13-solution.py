@@ -2,26 +2,26 @@
 from abc import ABCMeta, abstractmethod
 
 class Book(object, metaclass=ABCMeta):
-    def __init__(self, title, author):
-        self.title = title
-        self.author = author
+	def __init__(self, title, author):
+		self.title = title
+		self.author = author
 
-    @abstractmethod
-    def display():
-        # Abstract methods are to be implemented in sub-class
-        pass
+	@abstractmethod
+	def display():
+		# Abstract methods are to be implemented in sub-class
+		pass
 
 
 # Create sub-class by inheriting the above parent class
 class MyBook(Book):
-    def __init__(self, title, author, price):
-        self.price = price
-        super(MyBook, self).__init__(title, author)
+	def __init__(self, title, author, price):
+		self.price = price
+		super(MyBook, self).__init__(title, author)
 
-    def display(self):
-        print("Title:", self.title)
-        print("Author:", self.author)
-        print("Price:", self.price)
+	def display(self):
+		print("Title:", self.title)
+		print("Author:", self.author)
+		print("Price:", self.price)
 
 
 if __name__ == "__main__":
