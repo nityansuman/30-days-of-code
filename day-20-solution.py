@@ -1,7 +1,7 @@
 
 def bubble_sort(array):
 	num_swaps = 0
-	for i in range(len(array)):
+	for i, _ in enumerate(array):
 		for j in range(i+1, len(array)):
 			if array[j] < array[i]:
 				# Swap
