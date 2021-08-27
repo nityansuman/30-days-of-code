@@ -31,7 +31,7 @@
 - Day 18: Queues and Stacks
 - Day 19: Interfaces
 - Day 20: Sorting
-- Day 21: Generics (Not available in Python. C++ Specific Concept.)
+- Day 21: Generics (Not available in Python. Developed in C++.)
 - Day 22: Binary Search Trees
 - Day 23: Binary Search Trees: Level-Order Traversal
 - Day 24: More Linked Lists: Duplicate Removal
