@@ -13,10 +13,10 @@ if __name__ == "__main__":
 		even_string, odd_string = "", ""
 
 		# Compute strings
-		for j in range(len(s)):
+		for j, val in range(enumerate(s)):
 			if j % 2 == 0:
-				even_string += s[j]
+				even_string += val
 			else:
-				odd_string += s[j]
+				odd_string += val
 
 		print(f"{even_string} {odd_string}")
