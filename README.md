@@ -8,7 +8,7 @@
 
 [Hackerrank's infamous 30 days of code solution.](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
-## Recommended Resources
+## Learning Resources
 
 - [Learn Python Basics- Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
 - [More on Python - W3 School](https://www.w3schools.com/PYTHON/)
