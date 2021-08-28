@@ -8,11 +8,12 @@
 
 [Hackerrank's infamous 30 days of code solution.](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
-## Recommended Python Resources
+## Recommended Resources
 
-- [Learning Python - Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
+- [Learn Python Basics- Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
 - [More on Python - W3 School](https://www.w3schools.com/PYTHON/)
 - [Python for Everybody Specialization - Coursera](https://www.coursera.org/specializations/python)
+- [Learn C++ Basics - Tutorials Point](https://www.tutorialspoint.com/cplusplus/index.htm)
 
 **Note**: One of the above resources if done perfectly are enough but personally I would recommend
 to combine the `Python for Everybody Specialization - Coursera` along with one the resorces from
