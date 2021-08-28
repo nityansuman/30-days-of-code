@@ -31,15 +31,15 @@
 - Day 18: Queues and Stacks
 - Day 19: Interfaces
 - Day 20: Sorting
-- Day 21: Generics (Not available in Python. Developed in C++.)
+- Day 21: Generics (Concept not available in Python. Developed in C++.)
 - Day 22: Binary Search Trees
 - Day 23: Binary Search Trees: Level-Order Traversal
 - Day 24: More Linked Lists: Duplicate Removal
-- Day 25:
-- Day 26:
-- Day 27:
-- Day 28:
-- Day 29:
+- Day 25: Running Time and Complexity
+- Day 26: Nested Logic
+- Day 27: Basic Funcational Testing
+- Day 28: Simple RegEx
+- Day 29: Bitwise Operation (AND)
 
 [![Forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![Forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
