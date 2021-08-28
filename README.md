@@ -10,8 +10,8 @@
 
 ## Recommended Python Resources
 
-- [Learning Python - Tutorials Point Resource](https://www.tutorialspoint.com/python/index.htm)
-- [More on Python - W3 School Resource](https://www.w3schools.com/PYTHON/)
+- [Learning Python - Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
+- [More on Python - W3 School](https://www.w3schools.com/PYTHON/)
 - [Python for Everybody Specialization - Coursera](https://www.coursera.org/specializations/python)
 
 **Note**: One of the above resources if done perfectly are enough but personally I would recommend
