@@ -16,7 +16,7 @@
 - [Learn C++ Basics - Tutorials Point](https://www.tutorialspoint.com/cplusplus/index.htm)
 
 **Note**: One of the above resources if done perfectly are enough but personally I would recommend
-to combine the `Python for Everybody Specialization - Coursera` along with one the resorces from
+to combine the `Python for Everybody Specialization - Coursera` along with the other resource from
 either `Tutorials Point` or `W3 School` specially for data sciences.
 
 ## Repository Context
