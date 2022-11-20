@@ -1,10 +1,5 @@
 # 30 Days-of-code
 
-![GitHub LICENSE](https://img.shields.io/github/license/nityansuman/30-days-of-code)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/nityansuman/30-days-of-code)
-![GitHub repo size](https://img.shields.io/github/repo-size/nityansuman/30-days-of-code)
-![GitHub language count](https://img.shields.io/github/languages/count/nityansuman/30-days-of-code)
-
 [Hackerrank's Infamous 30 Days of Code Challenge](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
 ## Learning Resources
